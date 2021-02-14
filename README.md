@@ -11,6 +11,7 @@ Configuring user information used across all local repositories
 | `open`    |  configure repo only author name for all your commits  | `open "filename"` |
 | `cp`    |  copy a file to another directory        | `cp "filename <path/to/directory>"`|
 | `mv`    |  move a file to another directory        | `mv "filename <path/to/directory>"`|
+| `mv`    |  rename a file or a directory        | `mv "old-file-name" "new-file-name"`|
 | `mkdir`    |  create a directory        | `mkdir "directoryname"`|
 | `q`    |  quit the sub-screen and return back to terminal        | |
 | `clear`    | clear the terminal screen        | |
