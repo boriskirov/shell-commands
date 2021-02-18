@@ -15,6 +15,7 @@ Configuring user information used across all local repositories
 | `mkdir`    |  create a directory        | `mkdir "directoryname"`|
 | `q`    |  quit the sub-screen and return back to terminal        | |
 | `clear`    | clear the terminal screen        | |
+| `ifconfig`    | display all the active interfaces details, also checks the assigned IP address of an server.        | |
 
 ### Plugins
 Plugins are third-party scripts or applications that extend the functionality of an application. Use plugins to customize your experience, or create more efficient workflows.
