@@ -28,8 +28,8 @@ Plugins are third-party scripts or applications that extend the functionality of
 | Plugin      | Shorcut |  Description | 
 | :---        |    :----   | :----   |
 | [z - jump around](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)   |  z <name>    | This plugin defines the z command that tracks your most visited directories and allows you to access them with very few keystrokes. |
-| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone)   |  z <name>    | This plugin suggests commands as you type based on history and completions. |
-  | [web-search](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search)   |  z <name>    | This plugin adds aliases for searching with DuckDuckGo, Google, Wiki, Bing, YouTube and other popular services. |
+| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#manual-git-clone)   |  just do it    | This plugin suggests commands as you type based on history and completions. |
+  | [web-search](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search)   |  ddg "search-query"    | This plugin adds aliases for searching with DuckDuckGo, Google, Wiki, Bing, YouTube and other popular services. |
 
 
 How my plugin list looks like:
