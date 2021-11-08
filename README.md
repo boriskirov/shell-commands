@@ -1,5 +1,5 @@
 # shell-commands
-A list of command line operations for working.
+A list of command line operations for working. I use `zsh` for my daily work.
 
 ### Basic
 Configuring user information used across all local repositories
